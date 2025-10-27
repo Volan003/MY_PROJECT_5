@@ -6,7 +6,7 @@ dictionnary_list = [
 ]
 
 
-def filter_by_state(dictionnary_list: list[dict[str, str | int]], state) -> list[dict[str, str | int]]:
+def filter_by_state(dictionnary_list: list, state) -> list:
     """Фильтрация словарей по признаку EXECUTED"""
 
     return [i for i in dictionnary_list if i["state"] == "EXECUTED"]
@@ -15,7 +15,7 @@ def filter_by_state(dictionnary_list: list[dict[str, str | int]], state) -> list
 filter_by_state(dictionnary_list, state="EXECUTED")
 
 
-def sort_by_date(dictionnary_list: list[dict[str, str | int]], ascending=False) -> list[dict[str, str | int]]:
+def sort_by_date(dictionnary_list: list, ascending=False) -> list:
     """Сортировка по дате"""
 
     sorted_list = sorted(dictionnary_list, key=lambda list_: list_.get("date", 0), reverse=True)
