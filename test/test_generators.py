@@ -1,5 +1,3 @@
-from unittest import result
-
 import pytest
 
 from src.generators import card_number_generator, filter_by_currency, transaction_descriptions
@@ -30,6 +28,8 @@ def test_filter_by_currency_no_transactions(currency_test_list):
 
 
 """Параметризация для генератора номеров карт"""
+
+
 @pytest.mark.parametrize("start, stop, expected_numbers", [
     (
         1,
@@ -41,9 +41,9 @@ def test_filter_by_currency_no_transactions(currency_test_list):
         ]
     ),
     (
-            2,
-            3,
-            [
+        2,
+        3,
+        [
             "0000 0000 0000 0002",
             "0000 0000 0000 0003"
         ]
@@ -81,6 +81,8 @@ def test_transaction_descriptions(currency_test_list):
 
 
 """Параметризация для теста фильтрации по валюте"""
+
+
 @pytest.mark.parametrize("currency_code, expected_ids", [
     ("USD", [939719570, 142264268, 895315941]),
     ("EUR", []),
@@ -90,4 +92,5 @@ def test_filter_by_currency(currency_test_list, currency_code, expected_ids):
     result = list(filter_by_currency(currency_test_list, currency_code))
     result_ids = [x["id"] for x in result]
     assert result_ids == expected_ids
+
 

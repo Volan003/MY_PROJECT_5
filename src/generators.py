@@ -79,7 +79,7 @@ transactions = (
 )
 
 
-def filter_by_currency(dict_list, currency):
+def filter_by_currency(transactions, currency):
     """Фильтр транзакций по валюте"""
     if not transactions:
         raise ValueError('Введите транзакцию')
@@ -88,13 +88,14 @@ def filter_by_currency(dict_list, currency):
         raise ValueError('Нет такой транзакции')
     return (usd_transactions)
 
+
 if __name__ == '__main__':
     usd_transactions = filter_by_currency(transactions, "USD")
     for _ in range(2):
         print(next(usd_transactions))
 
 
-def transaction_descriptions(dict_list):
+def transaction_descriptions(transactions):
     """Назначение транзакций"""
     for x in transactions:
         yield x.get("description", "Описание не найдено")
