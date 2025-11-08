@@ -1,0 +1,47 @@
+Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (2, 0), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function_1 error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (2, 0), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (2, 0), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (2, 0), {}Функция my_function ok
+ start_time:1762610189.4083657
+ end_time:1762610189.4083672
+ 3Функция my_function ok
+ start_time:1762610229.2773874
+ end_time:1762610229.2773883
+ 3Функция my_function ok
+ start_time:1762611058.4554217
+ end_time:1762611058.4554226
+ 3Функция my_function error: ZeroDivisionError. Inputs: (2, 0), {}
+Функция my_function ok
+ start_time:1762611332.947771
+ end_time:1762611332.947773
+ 3Функция my_function ok
+ start_time:1762611368.9164903
+ end_time:1762611368.916491
+ 3Функция my_function ok
+ start_time:1762611398.0654016
+ end_time:1762611398.0654025
+ 3Функция my_function ok
+ start_time:1762611421.4616814
+ end_time:1762611421.4616823
+ 3Функция my_function ok
+ start_time:1762611457.1040664
+ end_time:1762611457.104067
+ 3Функция my_function ok
+ start_time:1762611457.1093018
+ end_time:1762611457.109303
+ 3Функция my_function ok
+ start_time:1762611467.6173277
+ end_time:1762611467.6173284
+ 3Функция my_function ok
+ start_time:1762611467.6235712
+ end_time:1762611467.623573
+ 3Функция my_function ok
+ start_time:1762611488.1116173
+ end_time:1762611488.1116183
+ 3Функция my_function ok
+ start_time:1762611488.1165445
+ end_time:1762611488.1165454
+ 3Функция my_function ok
+ start_time:1762611523.9715343
+ end_time:1762611523.9715369
+ 3Функция my_function ok
+ start_time:1762611523.9831212
+ end_time:1762611523.9831233
+ 3
