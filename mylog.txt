@@ -1,0 +1,43 @@
+Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (2, 0), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function_1 error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function_1 error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function ok
+ start_time:1762611436.2360854
+ end_time:1762611436.236087
+ 3Функция my_function ok
+ start_time:1762611436.8767507
+ end_time:1762611436.8767517
+ 3Функция my_function ok
+ start_time:1762611436.9432158
+ end_time:1762611436.9432166
+ 3Функция my_function ok
+ start_time:1762611474.2057984
+ end_time:1762611474.205799
+ 3Функция my_function ok
+ start_time:1762611474.2270231
+ end_time:1762611474.2270236
+ 3Функция my_function ok
+ start_time:1762611474.2282474
+ end_time:1762611474.228248
+ 3Функция my_function ok
+ start_time:1762611494.509219
+ end_time:1762611494.50922
+ 3Функция my_function ok
+ start_time:1762611494.531615
+ end_time:1762611494.5316155
+ 3Функция my_function ok
+ start_time:1762611494.5329118
+ end_time:1762611494.5329125
+ 3Функция my_function ok
+ start_time:1762611494.5339727
+ end_time:1762611494.5339732
+ 3Функция my_function ok
+ start_time:1762611679.3164961
+ end_time:1762611679.3165028
+ 3Функция my_function ok
+ start_time:1762611679.3438506
+ end_time:1762611679.343853
+ 3Функция my_function ok
+ start_time:1762611679.3453498
+ end_time:1762611679.3453543
+ 3Функция my_function ok
+ start_time:1762611679.3465014
+ end_time:1762611679.3465037
+ 3
