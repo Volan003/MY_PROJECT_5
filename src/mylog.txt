@@ -16,4 +16,10 @@
  3������� my_function ok
  start_time:1762611053.6586251
  end_time:1762611053.6586266
- 3
+ 3Функция my_function ok
+ start_time:2025-11-09 20:22:52
+ end_time:2025-11-09 20:22:52
+ 7Функция my_function ok
+ start_time:2025-11-09 20:23:59
+ end_time:2025-11-09 20:23:59
+ 7
