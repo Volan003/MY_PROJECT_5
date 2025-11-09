@@ -1,19 +1,19 @@
-Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function error: TypeError. Inputs: (1, 2), {}Функция my_function ok
+пїЅпїЅпїЅпїЅпїЅпїЅпїЅ my_function error: TypeError. Inputs: (1, 2), {}пїЅпїЅпїЅпїЅпїЅпїЅпїЅ my_function error: TypeError. Inputs: (1, 2), {}пїЅпїЅпїЅпїЅпїЅпїЅпїЅ my_function error: TypeError. Inputs: (1, 2), {}пїЅпїЅпїЅпїЅпїЅпїЅпїЅ my_function ok
  start_time:1762610177.3273423
  end_time:1762610177.3273444
- 3Функция my_function ok
+ 3пїЅпїЅпїЅпїЅпїЅпїЅпїЅ my_function ok
  start_time:1762610223.8872771
  end_time:1762610223.88728
- 3Функция my_function ok
+ 3пїЅпїЅпїЅпїЅпїЅпїЅпїЅ my_function ok
  start_time:1762610341.007569
  end_time:1762610341.0075707
- 3Функция my_function ok
+ 3пїЅпїЅпїЅпїЅпїЅпїЅпїЅ my_function ok
  start_time:1762610419.1136832
  end_time:1762610419.1136847
- 3Функция my_function ok
+ 3пїЅпїЅпїЅпїЅпїЅпїЅпїЅ my_function ok
  start_time:1762610827.0044477
  end_time:1762610827.0044491
- 3Функция my_function ok
+ 3пїЅпїЅпїЅпїЅпїЅпїЅпїЅ my_function ok
  start_time:1762611053.6586251
  end_time:1762611053.6586266
  3

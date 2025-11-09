@@ -5,10 +5,10 @@ from src.decorators import log
 
 # def test_log():
 #     @log()
-#     def my_function(x, y):
+#     def my_function_1(x, y):
 #         return x / y
-#     with pytest.raises(Exception, match='Функция my_function error: ZeroDivisionError. Inputs: (2, 0), {}'):
-#         my_function(2, 0)
+#     with pytest.raises(Exception, match='Функция my_function_1 error: ZeroDivisionError: division by zero. Inputs: (2, 0), {}'):
+#         my_function_1(2, 0)
 
 
 def test_log_1():
