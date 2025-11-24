@@ -17,4 +17,4 @@ def get_transactions_list(path: str) -> list[dict]:
 
 
 if __name__ == "__main__":
-    get_transactions_list('C:/Users/volod/PycharmProjects/MY_PROJECT_5/data/operations.json')
+    print(get_transactions_list("../data/operations.json"))
