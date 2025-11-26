@@ -25,10 +25,9 @@ def transaction_info(transaction: dict) -> float | str:
                 print(f"Ошибка запроса: Код {status_code}, Описание: {result}")
                 return 0.0
             if status_code == 200:
-                return 0.0
+                return amount
             else:
-                return f"Запрос не выполнен.\nКод ошибки: {status_code}.\nОписание ошибки: {result}."
-
+                return 0.0
         else:
             return amount
     except Exception as e:
