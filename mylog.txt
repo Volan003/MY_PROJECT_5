@@ -40,4 +40,13 @@
  3������� my_function ok
  start_time:1762611679.3465014
  end_time:1762611679.3465037
+ 3Функция my_function ok
+ start_time:2025-12-09 22:35:51
+ end_time:2025-12-09 22:35:51
+ 7Функция my_function ok
+ start_time:2025-12-09 22:35:54
+ end_time:2025-12-09 22:35:54
+ 3Функция my_function ok
+ start_time:2025-12-09 22:35:54
+ end_time:2025-12-09 22:35:54
  3
