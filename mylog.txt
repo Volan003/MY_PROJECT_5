@@ -49,4 +49,22 @@
  3Функция my_function ok
  start_time:2025-12-09 22:35:54
  end_time:2025-12-09 22:35:54
+ 3Функция my_function ok
+ start_time:2025-12-24 13:09:07
+ end_time:2025-12-24 13:09:07
+ 7Функция my_function ok
+ start_time:2025-12-24 13:09:10
+ end_time:2025-12-24 13:09:10
+ 3Функция my_function ok
+ start_time:2025-12-24 13:09:10
+ end_time:2025-12-24 13:09:10
+ 3Функция my_function ok
+ start_time:2025-12-24 13:11:41
+ end_time:2025-12-24 13:11:41
+ 7Функция my_function ok
+ start_time:2025-12-24 13:11:43
+ end_time:2025-12-24 13:11:43
+ 3Функция my_function ok
+ start_time:2025-12-24 13:11:43
+ end_time:2025-12-24 13:11:43
  3
